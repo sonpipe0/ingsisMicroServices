@@ -1,0 +1,9 @@
+[submodule "snippetService"]
+	path = snippetService
+	url = git@github.com:sonpipe0/snippetService.git
+[submodule "printScriptService"]
+	path = printScriptService
+	url = git@github.com:sonpipe0/printScriptService.git
+[submodule "permissionsManager"]
+	path = permissionsManager
+	url = git@github.com:sonpipe0/permissionsManager.git
